@@ -1,5 +1,5 @@
 const { expect, test } = require('@jest/globals');
-const delivery = require('../index.js');
+const delivery = require('../inc/delivery.js');
 
 test('A delivery can get to a neighboring city', () => {
     expect(delivery('Philadelphia', 'New York')).toBe(1);
