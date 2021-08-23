@@ -1,5 +1,5 @@
 # delivery_test
-Interview Code Challenge Solution
+Interview Code Challenge
 
 ## Problem
 Find the shortest route (least number of stops) between 2 destinations by traveling from city to city through their 'neighbors'. You can only visit each city once and there will be 1-4 cities on lockdown. You cannot visit the lockdown cities.
